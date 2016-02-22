@@ -1,7 +1,11 @@
 [package]
-name = "lockfree"
+name = "grid"
 version = "0.1.0"
-authors = ["Sam Cutler <sam.cutler@guardian.co.uk>"]
+description = "A speedy concurrent hashmap"
+readme = "README.md"
+repository = "https://github.com/currysoup/grid"
+license = "MIT"
+authors = ["Sam Cutler <sam92cutler@gmail.com>"]
 
 [dependencies]
 crossbeam = "0.2.8"

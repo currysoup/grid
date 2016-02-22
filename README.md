@@ -1,6 +1,6 @@
-# lockfree
+# grid
 
-A collection of lock free data structures starting with a hash map.
+An implementation of Dr. Cliff Click's nonblocking hashmap.
 
 ## License
 
